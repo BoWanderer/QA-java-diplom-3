@@ -1,6 +1,7 @@
 package com.model;
 
 public class Tokens {
+
     private static String accessToken;
     private static String refreshToken;
 
